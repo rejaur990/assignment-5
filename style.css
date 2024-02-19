@@ -1,0 +1,66 @@
+
+
+
+
+
+.header-div{
+    width: 1173px;
+    height: 56px;
+    display: flex;
+justify-content: space-around;
+    
+}
+.menu-bar{
+    width: 447px;
+    height: 41px;
+    flex-direction: row;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.menu-bar a {
+ color: red;
+text-decoration: none;
+padding: 10px;
+justify-content: center;
+align-items: center;
+}
+
+.bus{
+    display: flex;
+    width: 130px;
+    height: 56px;
+}
+
+
+
+.footer-div{
+    width:1440px ;
+    height:357px ;
+    background-color: black;
+    display: flex;
+
+}
+.footer-left{
+    color:rgb(47, 214, 35);
+    width: 374px;
+    height: 118px;
+}
+.footer-right{
+    color: rgb(47, 214, 35);
+    width: 374px;
+    height: 118px;
+
+}
+.play-store{
+    display: flex;
+    height: 56px;
+    width: 189px;
+}
+
+hr{
+    height: auto;
+    width: 2px;
+    color: rgb(47, 214, 35);
+}
