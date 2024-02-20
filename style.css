@@ -31,7 +31,61 @@ align-items: center;
     display: flex;
     width: 130px;
     height: 56px;
+    border: 1px solid rgb(24, 236, 24);
+    padding-left: 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(114, 137, 114);
 }
+
+
+
+
+
+
+
+.banner-div{
+    width: 1171px;
+    height: 550px;
+    background-image: url(images/banner.png);
+  padding: 30px;
+}
+
+
+.endto-end{
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.run-unit{
+    color: white;
+    text-align: center;
+}
+
+.buy-tickets{
+background-color: rgb(16, 216, 16);
+color: black;
+font-size: 1rem;
+font-weight: 700;
+margin-left: 500px;
+padding: 10px;
+border: none;
+border-radius: 8px;
+
+}
+
+.bus-text{
+    color: rgb(16, 216, 16);
+}
+
+.paribahan{
+    color: rgb(16, 216, 16);
+    text-align: center;
+    font-size: 3rem;
+    
+}
+
 
 
 
